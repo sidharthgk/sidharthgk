@@ -20,7 +20,7 @@
 - 🥇 **First Prize** in **Spark Venture 2024 Ignite Innovation Challenge**  
   - Proposed **EduLex AI**, an **AI & AR-based** solution for dyslexia  
   - **1 Lakh INR** funding awarded  
-  - Contributed to the frontend using **React.js**
+  - Contributed to the frontend using **React Native**
 - 🏆 **First Prize** in **College Bug Hunt Competition**  
   - Recognized for expertise in **identifying and resolving software bugs**
 - 📜 **NPTEL Python Certification** (Jul-Sep 2024)  
@@ -29,10 +29,22 @@
 
 ---
 
+## 📊 GitHub Stats & Activity
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sidharthgk&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sidharthgk&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthgk&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ## 🔧 Tech Stack & Skills
-- **Languages:** Python, HTML, CSS, JavaScript, C, SQL  
-- **Frameworks & Libraries:** React.js, discord.py, tkinter, BeautifulSoup  
-- **Tools & Platforms:** Git, VS Code, PyCharm, Arduino IDE  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,c,sql,react,arduino,git,vscode,pycharm" />
+</p>
 
 ---
 
@@ -51,6 +63,13 @@
 🔹 **Tech Stack:** Python, discord.py  
 🔹 Built a **Discord bot** for **welcome messages & server management**  
 🔹 Adopted by **5+ Discord servers with 500+ active users**  
+
+---
+
+## 🏆 Fun GitHub Badges
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sidharthgk&theme=tokyonight&margin-w=15&row=1&column=7" />
+</p>
 
 ---
 
