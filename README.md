@@ -56,7 +56,7 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sidharthgk&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sidharthgk&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=sidharthgk&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🔥 Featured Projects
@@ -96,7 +96,11 @@
 
 ## 📈 Contribution Graph
 
-![Snake animation](https://github.com/sidharthgk/sidharthgk/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sidharthgk/sidharthgk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sidharthgk/sidharthgk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sidharthgk/sidharthgk/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 🤝 Connect With Me
 
