@@ -19,8 +19,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          start_date: '2025-01-20' # Updated start date
-          end_date: '2025-12-31'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
