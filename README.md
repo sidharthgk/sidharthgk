@@ -67,9 +67,9 @@
 
 ## 📈 Contribution Graph
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sidharthgk/sidharthgk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sidharthgk/sidharthgk/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sidharthgk/sidharthgk/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sidharthgk/sidharthgk/output/github-contribution-grid-snake-dark.svg?start_date=2025-01-20" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sidharthgk/sidharthgk/output/github-contribution-grid-snake.svg?start_date=2025-01-20" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sidharthgk/sidharthgk/output/github-contribution-grid-snake.svg?start_date=2025-01-20" />
 </picture>
 
 ## 🤝 Connect With Me
