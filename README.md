@@ -59,35 +59,6 @@
   <img width="49%" src="https://streak-stats.demolab.com?user=sidharthgk&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🔥 Featured Projects
-
-<details>
-<summary>🗣 Desktop-Based Voice Assistant</summary>
-
-- **Tech Stack:** Python, tkinter, HTML, CSS, JavaScript
-- Integrated multiple APIs for various functionalities
-- Features: WhatsApp messaging, reminders, weather updates
-- Libraries: pyttsx3, speech recognition, pywhatkit
-</details>
-
-<details>
-<summary>👟 Smart Shoe for Visually Impaired</summary>
-
-- **Tech Stack:** Arduino, C++
-- IoT-based shoe with advanced sensor integration
-- 85% positive feedback from user testing
-- Features: Obstacle detection, vibration alerts
-</details>
-
-<details>
-<summary>🤖 Discord Bot</summary>
-
-- **Tech Stack:** Python, discord.py
-- Server management and automation
-- Active in 5+ servers with 500+ users
-- Custom welcome messages and moderation
-</details>
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
