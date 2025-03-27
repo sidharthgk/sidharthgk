@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Sidharth Gopala Krishnan</h1>
+<h1 align="center">Hey 👋, I'm Sidharth GK</h1>
 <h3 align="center">A passionate developer from India exploring Software Development, AI, and IoT</h3>
 
 <p align="center">
