@@ -1,0 +1,25 @@
+{
+  "name": "sidharthgk",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Hey 👋, I'm Sidharth GK</h1> <h3 align=\"center\">A passionate developer from India exploring Software Development, AI, and IoT</h3>",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^24.0.10",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "next": "^15.3.5",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "tailwindcss": "^4.1.11",
+    "typescript": "^5.8.3"
+  }
+}
